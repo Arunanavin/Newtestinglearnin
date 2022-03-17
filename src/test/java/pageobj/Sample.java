@@ -3,7 +3,7 @@ package pageobj;
 public class Sample {
 
 	public static void main(String[] args) {
-		String s="Aruna";
+		String s="Dharshwin";
 		if(s.contains("m"))
 		{
 			System.out.println("m is present");
