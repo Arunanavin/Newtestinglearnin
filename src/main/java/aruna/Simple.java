@@ -5,7 +5,7 @@ public class Simple {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String[] s= {"aruna","navin"};
+		String[] s= {"aruna","navin","maraatham"};
 		int len=s.length;
 		for(int i=0;i<len;i++)
 			
