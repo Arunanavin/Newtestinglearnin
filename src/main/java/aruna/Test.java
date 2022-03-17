@@ -4,7 +4,7 @@ package aruna;
 public class Test {
 
 	public static void main(String[] args) {
-		String given="Aruna";
+		String given="Adhvik";
 		int count=0;
 		char tofind='a';
 		
