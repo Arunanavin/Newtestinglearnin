@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="open hrm">
+<test name="loin test">
+<classes>
+<class name="pageobj.Testcases">
+</class>
+</classes>
+</test>
+<test name="admin test">
+<classes >
+<class name="pageobj.AdminTest">
+
+</class>
+</classes>
+</test>
+</suite>
